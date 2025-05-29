@@ -44,6 +44,10 @@ public class SalamanderSearch {
      * @throws IllegalArgumentException if the enclosure does not contain a salamander
      */
     public static boolean canReach(char[][] enclosure) {
+        // s = start
+        // f = food location
+        // w = wall
+        // . = empty walkable space
         return false;
     }
 }
